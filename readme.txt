@@ -12,3 +12,4 @@ Termine ma fonctionnalité
 
 test
 U1 bosse
+Utilisateur 2 commence a bosser
